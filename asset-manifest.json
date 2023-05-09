@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/fetchingapi/static/js/main.c9d2f1b6.js",
+    "index.html": "/fetchingapi/index.html",
+    "main.c9d2f1b6.js.map": "/fetchingapi/static/js/main.c9d2f1b6.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c9d2f1b6.js"
+  ]
+}
